@@ -1,2 +1,2 @@
-# belajarr_laravel
+# belajar_laravel
 dimulai tanggal 7  bulan july
